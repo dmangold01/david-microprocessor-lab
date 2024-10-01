@@ -1,0 +1,58 @@
+source/LPC55S69_Project_eampl.o source/LPC55S69_Project_eampl.d: \
+ ../source/LPC55S69_Project_eampl.c \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\board/board.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\board/clock_config.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\drivers/fsl_common.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\device/fsl_device_registers.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\device/LPC55S69_cm33_core0.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\CMSIS/core_cm33.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\CMSIS/cmsis_version.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\CMSIS/cmsis_compiler.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\CMSIS/cmsis_gcc.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\CMSIS/mpu_armv8.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\device/system_LPC55S69_cm33_core0.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\device/LPC55S69_cm33_core0_features.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\drivers/fsl_common_arm.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\drivers/fsl_clock.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\drivers/fsl_common.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\drivers/fsl_reset.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\drivers/fsl_reset.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\drivers/fsl_gpio.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\drivers/fsl_iocon.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\board/peripherals.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\board/pin_mux.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\board/clock_config.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\device/LPC55S69_cm33_core0.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\utilities/fsl_debug_console.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\component\serial_manager/fsl_component_serial_manager.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\component\serial_manager/fsl_component_serial_port_uart.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\component\uart/fsl_adapter_uart.h \
+ C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\drivers/fsl_pint.h
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\board/board.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\board/clock_config.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\drivers/fsl_common.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\device/fsl_device_registers.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\device/LPC55S69_cm33_core0.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\CMSIS/core_cm33.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\CMSIS/cmsis_version.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\CMSIS/cmsis_compiler.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\CMSIS/cmsis_gcc.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\CMSIS/mpu_armv8.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\device/system_LPC55S69_cm33_core0.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\device/LPC55S69_cm33_core0_features.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\drivers/fsl_common_arm.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\drivers/fsl_clock.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\drivers/fsl_common.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\drivers/fsl_reset.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\drivers/fsl_reset.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\drivers/fsl_gpio.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\drivers/fsl_iocon.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\board/peripherals.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\board/pin_mux.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\board/clock_config.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\device/LPC55S69_cm33_core0.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\utilities/fsl_debug_console.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\component\serial_manager/fsl_component_serial_manager.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\component\serial_manager/fsl_component_serial_port_uart.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\component\uart/fsl_adapter_uart.h:
+C:\Users\DCDbr\Documents\MCUXpressoIDE_11.10.0_3148\workspace\LPC55S69_Project_eampl\drivers/fsl_pint.h:
